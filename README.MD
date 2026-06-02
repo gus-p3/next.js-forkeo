@@ -66,7 +66,7 @@ Miga-Co es una plataforma SaaS multi-tenant diseñada para pastelerías artesana
 ### Evidencia 6 — URL del Pull Request
 
 ```
-https://github.com/USUARIO/REPOSITORIO/pull/NUMERO
+https://github.com/gus-p3/next.js-forkeo/commit/92b9e734047bd42c45fe80cda8cb8b83e40d2a2c
 ```
 
 ---
